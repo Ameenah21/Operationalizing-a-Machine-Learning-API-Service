@@ -5,7 +5,7 @@
 
 # Create dockerpath
 # dockerpath=<your docker ID/path>
-dockerpath=ameenah/mlapp
+dockerpath=ameenah/housingmlapp
 
 
 # Authenticate & tag
