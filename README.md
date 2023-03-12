@@ -37,3 +37,4 @@ To run the files local Environment:
 - [upload_docker.sh](./upload_docker.sh) - Script to upload container to registry
 - [run_kubernetes.sh](./run_kubernetes.sh) - Script to run Kubernetes
 - [make_prediction.sh](./make_prediction.sh) - Script to make prediction
+- [output_txt_files](./output_txt_files/) - Log output files
